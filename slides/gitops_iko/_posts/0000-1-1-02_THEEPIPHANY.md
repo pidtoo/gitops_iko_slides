@@ -4,7 +4,7 @@
 
 ---
 
-<!-- .slide: data-background-transition="slide" data-background="https://pidtoo.github.io/assets/images/danron.png" -->
+<!-- .slide: data-background-transition="slide" data-background="https://pidtoo.github.io/gitops_iko_slides/assets/images/danron.png" -->
 
 ## Greet
 
@@ -17,7 +17,7 @@ https://youtu.be/O7oD_oX-Gio
 
 ---
 
-<!-- .slide: data-background-transition="slide" data-background="https://pidtoo.github.io/assets/images/brohug.png" -->
+<!-- .slide: data-background-transition="slide" data-background="https://pidtoo.github.io/gitops_iko_slides/assets/images/brohug.png" -->
 
 ## Awkward, Post Covid Bro Hug
 
@@ -26,7 +26,7 @@ This slide shows a background of Dan and Ron awkwardly completing a bro hug, whi
 Ron: Dude, you got your gitops in my intersystems, Dan: you got your intersystems in my Gitops!
 
 ---
-<!-- .slide: data-background-transition="slide" data-background="https://pidtoo.github.io/assets/images/epiphany.png" -->
+<!-- .slide: data-background-transition="slide" data-background="https://pidtoo.github.io/gitops_iko_slides/assets/images/epiphany.png" -->
 
 ## Epiphany
 
@@ -35,7 +35,7 @@ This slide has an image background that is the classic four frame internet meme 
 
 ---
 
-<!-- .slide: data-background-transition="slide" data-background="https://pidtoo.github.io/assets/images/lovestory.png" -->
+<!-- .slide: data-background-transition="slide" data-background="https://pidtoo.github.io/gitops_iko_slides/assets/images/lovestory.png" -->
 
 ## Solution
 
