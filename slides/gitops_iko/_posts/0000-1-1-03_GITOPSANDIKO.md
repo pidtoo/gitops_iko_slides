@@ -2,7 +2,7 @@
 
 # GITOPS AND IKO <!-- .element: class="r-fit-text" -->
 
-What can this stuff do? <!-- .element: class="r-fit-text" -->
+What is this stuff? <!-- .element: class="r-fit-text" -->
 
 ---
 
