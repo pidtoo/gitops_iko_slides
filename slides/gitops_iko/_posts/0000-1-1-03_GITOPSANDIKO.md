@@ -8,7 +8,7 @@ Apply the stuff. <!-- .element: class="r-fit-text" -->
 
 <!-- .slide: data-background-transition="slide" data-background="https://pidtoo.github.io/gitops_iko_slides/assets/images/solution-app-of-apps.png" -->
 
-## Solutioning, Solutioning, Solutioning
+## So Dan...
 This is going to be tongue and cheek, where I present a bunch of things as requirements for Dan to boil the ocean.
 
 ---
@@ -38,7 +38,7 @@ Dan stuff
 
 ## IKO 
 
-Ron Stuff
+The InterSystems Kubernetes Operator (IKO) extends the Kubernetes API with the IrisCluster custom resource, which can be deployed as an InterSystems IRIS® sharded cluster, distributed cache cluster, or standalone instance (all optionally mirrored) on any Kubernetes platform. 
 
 ---
 
