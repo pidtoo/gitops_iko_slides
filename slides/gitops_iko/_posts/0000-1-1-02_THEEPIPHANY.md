@@ -3,17 +3,17 @@
 # THE EPIPHANY <!-- .element: class="r-fit-text" -->
 
 ---
+ <img src="{{asset_folder}}/sqlonfhir.png" />
 
-<!-- .slide: data-background-transition="slide" data-background="https://pidtoo.github.io/gitops_iko_slides/assets/images/danron.png" -->
+<!-- .slide: data-background-transition="slide" data-background="{{asset_folder}}/shooting_shit.png" -->
 
 ## Greet
 
-This slide shows a background of Dan and Ron standing together, Ron is wearing an InterSystmems hoodie, Dan is wearing a Kubernetes hoodie.  Dan is eating a giant chocolate candy bar with the ArgoCD wrapper on it, Ron is eating out of a what appears to be a bucket of Peanut Buter with an intersytems logo on it.  Callout bubbles will be in the images representing bullshit acronyms flying out of mouths from our opposing camps.
+
 
 (In case you dont know where this is going, its going to emulate the 70's commercial for Reese's Peanut Butter Cups.)
 
-
-https://youtu.be/O7oD_oX-Gio
+["Reese's"](https://youtu.be/O7oD_oX-Gio)
 
 ---
 
