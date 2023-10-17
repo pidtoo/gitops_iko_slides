@@ -17,9 +17,11 @@ Ron and Dan catch up
 ---
 
 <!-- .slide: data-background-transition="slide" data-background="{{asset_folder}}/dude.png" -->
-<img src="{{asset_folder}}/ron-dude.gif" />
-## Awkward, Post Covid Bro Hug
-Results in Catastrophic Water Cooler Accident
+<img src="{{asset_folder}}/ron-dude.gif" />  
+
+## Awkward, Post Covid Bro Hug  
+Results in Catastrophic Water Cooler Accident  
+
 <img src="{{asset_folder}}/dan-dude.gif" />
 
 ---
