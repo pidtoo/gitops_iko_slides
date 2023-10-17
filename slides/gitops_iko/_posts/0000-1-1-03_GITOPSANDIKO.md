@@ -55,6 +55,6 @@ The InterSystems Kubernetes Operator (IKO) extends the Kubernetes API with the I
 </table>
 
 ---
-<!-- .slide: data-background-transition="slide" data-background-size="cover" data-background="{{asset_folder}}/argo-iko.png" -->
+<!-- .slide: data-background-transition="slide" data-background-size="contain" data-background="{{asset_folder}}/argo-iko.png" -->
 
 ##       

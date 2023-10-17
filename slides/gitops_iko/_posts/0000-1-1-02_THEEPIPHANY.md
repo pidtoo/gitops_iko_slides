@@ -8,7 +8,7 @@
 
 ## Water Cooler Nonsense
 
-Ron and Dan catch up
+Ron and Dan Catch up
 
 <img src="{{asset_folder}}/ron-bullshit.gif" />
 <img src="{{asset_folder}}/dan-bullshit.gif" />
