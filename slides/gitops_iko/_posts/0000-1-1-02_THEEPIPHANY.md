@@ -20,9 +20,10 @@ Ron and Dan catch up
 
 ## Awkward, Post Covid Bro Hug
 
-Results in catastrophic.
+Results in Catastrophic Water Cooler Accident
 
-Ron: Dude, you got your gitops in my intersystems, Dan: you got your intersystems in my Gitops!
+<img src="{{asset_folder}}/ron-dude.gif" />
+<img src="{{asset_folder}}/dan-dude.gif" />
 
 ---
 <!-- .slide: data-background-transition="slide" data-background="{{asset_folder}}/epiphany.png" -->
