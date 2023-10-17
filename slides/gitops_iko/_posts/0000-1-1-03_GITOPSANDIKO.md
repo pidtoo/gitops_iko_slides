@@ -1,4 +1,5 @@
-<!-- .slide: data-background="#fff" -->
+<!-- .slide: data-background="#ffa882" -->
+
 
 ## Git Ops
 
@@ -27,7 +28,7 @@ GitOps is an alternative deployment paradigm, where the Kubernetes Cluster itsel
 
 ---
 
-<!-- .slide: data-background="#fff" -->
+<!-- .slide: data-background="#d0e8f0" -->
 
 ## IKO
 
@@ -40,20 +41,21 @@ The InterSystems Kubernetes Operator (IKO) extends the Kubernetes API with the I
 
 * CPF Driven  
 * Managed IRIS State   
-* Mirroring, Simplified    
-* Merge Branch to Deploy  
+* Mirroring, Waaayyyyy Simplified    
 
 </td>
 <td>
 
-* Version Control, History, Peer Review, Rollback   
-* Continuous Delivery Pipelines  
-* Webhooks, Push to Trigger  
+* Battle Tested Topologies   
+* IRIS application specific mechanics  
+* IRIS Application Life-Cycle Management right alongside Compute  
 
 </td>
 </tr>
 </table>
 
+note:
+However, stateful applications, like databases and monitoring systems, require additional domain-specific knowledge that Kubernetes doesn’t have. It needs this knowledge in order to scale, upgrade, and reconfigure these applications.
 ---
 <!-- .slide: data-background="#fff" -->
 

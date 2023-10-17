@@ -20,7 +20,7 @@ Ron and Dan Catch up
 <img src="{{asset_folder}}/ron-dude.gif" />  
 
 ## Awkward, Post Covid Bro Hug  
-Results in Catastrophic Water Cooler Accident  
+Results in Catastrophic Mid-day Snack Accident  
 
 <img src="{{asset_folder}}/dan-dude.gif" />
 
