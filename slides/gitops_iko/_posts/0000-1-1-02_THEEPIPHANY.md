@@ -43,7 +43,7 @@ Turns out GitOps + IKO is Delicious!
 
 <!-- .slide: data-background="#000" -->
 
-## Dan, Do I have a deployable Solution or a Pile of Containers and Charts ?
+## Do I have a deployable Solution or just a Pile of Containers and Charts ?
 
 <img src="{{asset_folder}}/pile_of_containers_charts.png"/>
 
@@ -51,7 +51,7 @@ Turns out GitOps + IKO is Delicious!
 
 <!-- .slide: data-background="#000" -->
 
-## Ron, you have an App of Apps
+## App of Apps
 
 
 <img src="{{asset_folder}}/argo_logo.png"/>
