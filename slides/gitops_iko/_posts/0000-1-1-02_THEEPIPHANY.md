@@ -7,11 +7,12 @@
 <!-- .slide: data-background-transition="slide" data-background="{{asset_folder}}/shooting_shit.png" -->
 
 ## Water Cooler Nonsense
-Ron and Dan catch up.
 
+Ron and Dan catch up
 
-["Reese's"](https://youtu.be/O7oD_oX-Gio)
-(In case you dont know where this is going, its going to emulate the 70's commercial for Reese's Peanut Butter Cups.)
+<img src="{{asset_folder}}/ron-bullshit.gif" />
+<img src="{{asset_folder}}/dan-bullshit.gif" />
+
 
 ---
 
