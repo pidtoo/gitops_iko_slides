@@ -41,10 +41,21 @@ Turns out GitOps + IKO is Delicious!
 
 ---
 
-<!-- .slide: data-background-transition="slide" data-background="https://pidtoo.github.io/gitops_iko_slides/assets/images/lovestory.png" -->
+<!-- .slide: data-background="#000" -->
 
-## Solution
+## Dan, Do I Solution or a Pile of Containers and Charts ?
 
-This slide has an image background that has a picture of the fictious bucket and a chocolate bar in it... it will have two callout arrows and a heart pointing to the intersystems logo on one side and argo on the other.
+<img src="{{asset_folder}}/pile_of_containers_charts.png />
+
+---
+
+<!-- .slide: data-background="#000" -->
+
+## Ron, you have an App of Apps
+
+
+<img src="{{asset_folder}}/argo_logo.png />
+
+
 
 ---
