@@ -1,6 +1,7 @@
 <!-- .slide: data-background="#E6F7FF" -->
 
-# THE FISTBUMP <!-- .element: class="r-fit-text" -->
+## SETUP
+Intro that we are baking a cake, a wedding cake together to enable a solution, but today we are going to be making a cupcake to drive home the point in simplicity.
 
 ---
 

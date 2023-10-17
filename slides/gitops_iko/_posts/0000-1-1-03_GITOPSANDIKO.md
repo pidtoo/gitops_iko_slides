@@ -3,8 +3,11 @@
 
 ## Git Ops
 
+<span style="color:white;font-weight:700">
 GitOps is an alternative deployment paradigm, where the Kubernetes Cluster itself is "pulling" updates from manifests that reside in source control (making "Git" an integral part of the name).
+</span>
 
+<span style="color:gray;font-weight:700">
 <table>
 
 <tr>
@@ -25,7 +28,7 @@ GitOps is an alternative deployment paradigm, where the Kubernetes Cluster itsel
 </td>
 </tr>
 </table>
-
+</span>
 ---
 
 <!-- .slide: data-background="#d0e8f0" -->
