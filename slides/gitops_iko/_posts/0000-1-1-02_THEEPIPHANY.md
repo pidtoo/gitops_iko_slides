@@ -1,9 +1,8 @@
 <!-- .slide: data-background="#E6F7FF" -->
 
-# THE EPIPHANY <!-- .element: class="r-fit-text" -->
+### THE EPIPHANY <!-- .element: class="r-fit-text" -->
 
 ---
-
 
 <!-- .slide: data-background-transition="slide" data-background="{{asset_folder}}/shooting_shit.png" -->
 
