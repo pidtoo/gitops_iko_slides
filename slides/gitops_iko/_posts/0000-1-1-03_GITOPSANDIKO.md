@@ -2,7 +2,7 @@
 
 ### Git Ops <!-- .element: class="r-fit-text" -->
 
-GitOps is an alternative deployment paradigm, where the Kubernetes Cluster itself is “pulling” updates from manifests that reside in source control (making “Git” an integral part of the name).
+GitOps is an alternative deployment paradigm, where the Kubernetes Cluster itself is "pulling" updates from manifests that reside in source control (making "Git" an integral part of the name).
 
 <table>
 
@@ -55,6 +55,8 @@ The InterSystems Kubernetes Operator (IKO) extends the Kubernetes API with the I
 </table>
 
 ---
-<!-- .slide: data-background-transition="slide" data-background-size="contain" data-background="{{asset_folder}}/argo-iko.png" -->
+<!-- .slide: data-background="#fff" -->
 
 ##       
+
+<img src="{{asset_folder}}/argo-iko.png" /> 
