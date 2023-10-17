@@ -29,7 +29,7 @@ Results in Catastrophic Water Cooler Accident
 
 ## Epiphany
 
-Turns out GitOps.
+Turns out GitOps + IKO is Delicious!
 
 
 ---
@@ -37,7 +37,7 @@ Turns out GitOps.
 
 <!-- .slide: data-background-iframe="https://www.youtube.com/embed/O7oD_oX-Gio?si=-3iedBokNVo9SaC6&amp;controls=0" data-background-interactive-->
 
-## Confused ?
+##      
 
 ---
 
