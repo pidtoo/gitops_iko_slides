@@ -33,6 +33,13 @@ Turns out GitOps.
 
 ---
 
+
+<!-- .slide: data-background-iframe="https://www.youtube.com/embed/O7oD_oX-Gio?si=-3iedBokNVo9SaC6&amp;controls=0" data-background-interactive-->
+
+## Confused ?
+
+---
+
 <!-- .slide: data-background-transition="slide" data-background="https://pidtoo.github.io/gitops_iko_slides/assets/images/lovestory.png" -->
 
 ## Solution
