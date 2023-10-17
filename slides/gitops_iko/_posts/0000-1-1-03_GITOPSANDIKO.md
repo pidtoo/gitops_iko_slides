@@ -1,44 +1,60 @@
-<!-- .slide: data-background="#E6F7FF" -->
+<!-- .slide: data-background="#fff" -->
 
-# GITOPS AND IKO <!-- .element: class="r-fit-text" -->
+## Git Ops <!-- .element: class="r-fit-text" -->
 
-Apply the stuff. <!-- .element: class="r-fit-text" -->
+GitOps is an alternative deployment paradigm, where the Kubernetes Cluster itself is “pulling” updates from manifests that reside in source control (making “Git” an integral part of the name).
 
----
+<table>
 
-<!-- .slide: data-background-transition="slide" data-background="https://pidtoo.github.io/gitops_iko_slides/assets/images/solution-app-of-apps.png" -->
+<tr>
+<td>
 
-## So Dan...
-This is going to be tongue and cheek, where I present a bunch of things as requirements for Dan to boil the ocean.
+* Ops Practices using Git  
+* Drive Operations through Git Repo  
+* Git to Declare State  
+* Merge Branch to Deploy  
 
----
+</td>
+<td>
 
+* Version Control, History, Peer Review, Rollback   
+* Continuous Delivery Pipelines  
+* Webhooks, Push to Trigger  
 
-<!-- .slide: data-background-transition="slide" data-background=https://pidtoo.github.io/gitops_iko_slides/assets/images/solution-app-of-apps.png" -->
-
-## App of Apps
-This is where Dan mic drops "App of Apps" and we leave it there.
-
----
-
-This slide will disappear.
-
-Here Dan is going to introduce GitOps in a sentence and share his experience utilizing it to, Ron is going to do the same with the Operator.
-
----
-
-<!-- .slide: data-background-transition="slide" data-background="https://a-nau.github.io/assets/img/sidebar-bg.jpg" -->
-## Gitops
-
-Dan stuff
+</td>
+</tr>
+</table>
 
 ---
 
-<!-- .slide: data-background-transition="slide" data-background="https://a-nau.github.io/assets/img/sidebar-bg.jpg" -->
+<!-- .slide: data-background="#fff" -->
 
-## IKO 
+## IKO <!-- .element: class="r-fit-text" -->
 
 The InterSystems Kubernetes Operator (IKO) extends the Kubernetes API with the IrisCluster custom resource, which can be deployed as an InterSystems IRIS® sharded cluster, distributed cache cluster, or standalone instance (all optionally mirrored) on any Kubernetes platform. 
 
----
+<table>
 
+<tr>
+<td>
+
+* CPF Driven  
+* Managed IRIS State   
+* Mirroring, Simplified    
+* Merge Branch to Deploy  
+
+</td>
+<td>
+
+* Version Control, History, Peer Review, Rollback   
+* Continuous Delivery Pipelines  
+* Webhooks, Push to Trigger  
+
+</td>
+</tr>
+</table>
+
+---
+<!-- .slide: data-background-transition="slide" data-background="{{asset_folder}}/argo-iko.png" -->
+
+##       
