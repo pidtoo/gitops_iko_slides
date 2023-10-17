@@ -31,12 +31,15 @@ GitOps is an alternative deployment paradigm, where the Kubernetes Cluster itsel
 </span>
 ---
 
-<!-- .slide: data-background="#d0e8f0" -->
+<!-- .slide: data-background="#00c2b4" -->
 
 ## IKO
 
+<span style="color:white;font-weight:700">
 The InterSystems Kubernetes Operator (IKO) extends the Kubernetes API with the IrisCluster custom resource, which can be deployed as an InterSystems IRIS® sharded cluster, distributed cache cluster, or standalone instance (all optionally mirrored) on any Kubernetes platform. 
+</span>
 
+<span style="color:#272e9a;font-weight:700">
 <table>
 
 <tr>
@@ -56,6 +59,7 @@ The InterSystems Kubernetes Operator (IKO) extends the Kubernetes API with the I
 </td>
 </tr>
 </table>
+</span>
 
 note:
 However, stateful applications, like databases and monitoring systems, require additional domain-specific knowledge that Kubernetes doesn’t have. It needs this knowledge in order to scale, upgrade, and reconfigure these applications.
