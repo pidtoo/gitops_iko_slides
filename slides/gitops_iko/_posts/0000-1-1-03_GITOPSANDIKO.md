@@ -68,4 +68,4 @@ However, stateful applications, like databases and monitoring systems, require a
 
 ##       
 
-<img width="100%" src="{{asset_folder}}/argo-iko.png" /> <!-- .element width="100%" -->
+<img width="100%" src="{{asset_folder}}/argo-iko.png"/>
