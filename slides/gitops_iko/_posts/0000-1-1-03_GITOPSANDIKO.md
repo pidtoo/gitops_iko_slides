@@ -45,17 +45,18 @@ The InterSystems Kubernetes Operator (IKO) extends the Kubernetes API with the I
 <tr>
 <td>
 
-* CPF Driven  
-* Managed IRIS State   
-* Mirroring, Waaayyyyy Simplified    
+* TLS/SSL for Free  
+* Observability for Free 
+* Mirroring, Waaayyyyy Simplified   
+* Common Password
 
 </td>
 <td>
 
 * Battle Tested Topologies   
-* IRIS application specific mechanics  
-* IRIS Application Life-Cycle Management right alongside Compute  
-
+* IRIS Application specific mechanics  
+* IRIS Application Life-Cycle Management (Right alongside Compute)  
+* 
 </td>
 </tr>
 </table>
