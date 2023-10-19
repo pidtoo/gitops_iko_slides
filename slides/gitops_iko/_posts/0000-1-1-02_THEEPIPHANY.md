@@ -41,7 +41,7 @@ Turns out GitOps + IKO is Delicious!
 
 ---
 
-<!-- .slide: data-background="#000" -->
+<!-- .slide: data-background="#fff" -->
 
 ## Do I have a deployable Solution or just a Pile of Containers and Charts ?
 
